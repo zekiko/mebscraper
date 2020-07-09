@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb607f27-0c67-4e24-8cfb-f0e7406f3cbf" name="Default" comment="" />
+    <list default="true" id="cb607f27-0c67-4e24-8cfb-f0e7406f3cbf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deneme.py" beforeDir="false" afterPath="$PROJECT_DIR$/deneme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lise.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lise.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +21,8 @@
       <file leaf-file-name="data_scraper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+            <state relative-caret-position="65">
+              <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -27,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/data.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="241" selection-start-column="238" selection-end-column="241" />
+              <caret column="95" selection-start-column="95" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -35,8 +42,8 @@
       <file leaf-file-name="deneme.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deneme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="284">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -47,8 +54,8 @@
       <file leaf-file-name="foo.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/foo.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="164" lean-forward="true" selection-start-line="7" selection-start-column="164" selection-end-line="7" selection-end-column="164" />
+            <state relative-caret-position="-294">
+              <caret line="7" column="164" selection-start-line="7" selection-start-column="164" selection-end-line="7" selection-end-column="164" />
             </state>
           </provider>
         </entry>
@@ -56,8 +63,8 @@
       <file leaf-file-name="lise.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lise.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="48" column="54" selection-end-line="66" />
+            <state relative-caret-position="-108">
+              <caret line="39" column="126" lean-forward="true" selection-start-line="39" selection-start-column="126" selection-end-line="39" selection-end-column="126" />
             </state>
           </provider>
         </entry>
@@ -90,7 +97,11 @@
       <find>mah</find>
       <find>yenima</find>
       <find>resul</find>
+      <find>cumhuriyet</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,9 +109,9 @@
         <option value="$PROJECT_DIR$/lol2.py" />
         <option value="$PROJECT_DIR$/lol.py" />
         <option value="$PROJECT_DIR$/data.txt" />
+        <option value="$PROJECT_DIR$/lise.csv" />
         <option value="$PROJECT_DIR$/deneme.py" />
         <option value="$PROJECT_DIR$/data_scraper.py" />
-        <option value="$PROJECT_DIR$/lise.csv" />
       </list>
     </option>
   </component>
@@ -226,16 +237,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="815" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.42896935" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3286908" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.49164346" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" weight="0.32729805" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.44707522" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.44707522" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39972144" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -244,7 +255,6 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -256,6 +266,47 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="241" selection-start-column="238" selection-end-column="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="164" lean-forward="true" selection-start-line="7" selection-start-column="164" selection-end-line="7" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lise.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="54" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
@@ -358,21 +409,21 @@
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="241" selection-start-column="238" selection-end-column="241" />
+          <caret column="95" selection-start-column="95" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/foo.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="164" lean-forward="true" selection-start-line="7" selection-start-column="164" selection-end-line="7" selection-end-column="164" />
+        <state relative-caret-position="-294">
+          <caret line="7" column="164" selection-start-line="7" selection-start-column="164" selection-end-line="7" selection-end-column="164" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deneme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="284">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -381,15 +432,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lise.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="48" column="54" selection-end-line="66" />
+        <state relative-caret-position="-108">
+          <caret line="39" column="126" lean-forward="true" selection-start-line="39" selection-start-column="126" selection-end-line="39" selection-end-column="126" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+        <state relative-caret-position="65">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

@@ -14,6 +14,10 @@ a = "Bağlar Cad. Cad Cd cd cd. Ethem Köslü Sok. No13 Seyranbağları /  ANKAR
 kom = re.split('.  |\ ', a)
 print(kom)
 
-out = map(lambda x:x.lower(), kom)
+#out = map(lambda x:x.lower(), kom)
 
-print ("Cad." in list(out))
+#print ("Cad." in list(out))
+
+e = "12.Cadde No 3 Emek Çankaya/ANKARA"
+kom = re.split('.  |\s+ |, ', e)
+print (kom)
