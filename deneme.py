@@ -20,4 +20,7 @@ print(kom)
 
 e = "12.Cadde No 3 Emek Çankaya/ANKARA"
 kom = re.split('.  |\s+ |, ', e)
-print (kom)
+#print (kom)
+
+s = "İSTANBUL Türkiye"
+print("istanbul türkiye" in s.lower())
